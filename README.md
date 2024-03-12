@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**Creative0708/Creative0708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi! Welcome to my GitHub profile page.
 
-Here are some ideas to get you started:
+I'm Colin, a high school student who works on random projects that come to mind, among other things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some stuff I'm working on:
+
+- [CubeDAW](https://github.com/Creative0708/cubedaw), a WIP digital audio workstation
+- [Micropixel](https://github.com/Creative0708/micropixel), a minimalist game engine
+
+There are more that are private, and I hope to work on them soon. Eventually...
+
+
+### Contacts
+For most purposes, my email is good enough: [creative0708@gmail.com](mailto:creative0708@gmail.com)<br>
+I don't have many other social media apps that I'm active on. More to come in the future, I guess
