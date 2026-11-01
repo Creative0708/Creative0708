@@ -1,7 +1,7 @@
 
 ## Hi! Welcome to my GitHub profile page.
 
-I'm Colin, a high school student who works on random projects that come to mind, among other things.
+I'm Colin, a university student who works on random projects that come to mind, among other things.
 
 Some stuff I'm working on:
 
